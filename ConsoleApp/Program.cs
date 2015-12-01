@@ -10,6 +10,8 @@ namespace ConsoleApp
         {
             Console.WriteLine("Hello World");
             Console.ReadKey();
+
+            // Commented out
         }
     }
 }
